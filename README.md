@@ -252,6 +252,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Pre-built AI application templates for accelerated development*
     - [Synthetic Data Generation in Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/fine-tuning/data-generation?view=foundry)  
       *AI-powered synthetic dataset creation for model training and testing*
+    - [Azure AI Search with Sensitivity Labels and SharePoint ACLs](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/sensitivity-labels-preservation-and-sharepoint-acls-in-azure-ai-search/4471216)  
+      *Enhanced data governance with Purview sensitivity labels and SharePoint access controls*
 
 - **Model Fine-Tuning & Training:**
     - [Fine Tuning Developer Tier with Spot Instances](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/fine-tuning-overview?view=foundry-classic)  
