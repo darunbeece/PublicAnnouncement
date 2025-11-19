@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 19, 2025 at 3:23PM EST
+**Last Updated:** November 19, 2025 at 4:18PM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -158,6 +158,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **API Management:**
     - [Azure API Management - Govern, Secure, and Observe A2A APIs](https://techcommunity.microsoft.com/blog/integrationsonazureblog/preview-govern-secure-and-observe-a2a-apis-with-azure-api-management/4469800)  
       *Enhanced API governance, security, and observability for application-to-application APIs*
+    - [Azure API Management Premium v2 Tier - General Availability](https://techcommunity.microsoft.com/blog/integrationsonazureblog/announcing-the-general-availability-ga-of-the-premium-v2-tier-of-azure-api-manag/4471499)  
+      *Next-generation premium tier with enhanced performance and capabilities*
 
 ### Notable Updates
 
