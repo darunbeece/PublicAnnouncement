@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 19, 2025 at 11:36AM EST
+**Last Updated:** November 19, 2025 at 11:45AM EST
 
 **🎯 What's Inside:** 85+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -80,14 +80,14 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **Adaptive Cloud:**
     - [Arc Edge Video Indexer](https://techcommunity.microsoft.com/blog/azurearcblog/ignite-2025-preview---intelligent-real-time-video-insights-and-agents-with-azure/4470704)  
       *AI-powered video analytics for edge computing scenarios*
-    - [Azure Local - Cloud Infrastructure for Distributed Locations](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773)  
-      *Hyperconverged infrastructure solution for edge and remote sites*
+    - [What's new in Azure Local](https://techcommunity.microsoft.com/blog/azurearcblog/what%E2%80%99s-new-in-azure-local-cloud-infrastructure-for-distributed-locations-enabled/4469773)  
+      *New Hardware, GPU Support, VMWare Migration, Rack-Aware Clustering, and SAN support. *
     - [Arc-Enabled Azure Migrate](https://techcommunity.microsoft.com/blog/azurearcblog/accelerate-your-cloud-migration-journey-with-azure-arc-resource-discovery-in-azu/4469975)  
       *Resource discovery and assessment for hybrid cloud migrations*
     - [SQL Server Migration in Azure Arc - GA](https://techcommunity.microsoft.com/blog/microsoftdatamigration/sql-server-migration-in-azure-arc-%E2%80%93-generally-available/4471020)  
       *Generally available database migration service for hybrid SQL deployments*
     - [Arc Multi-Cloud Updates](https://techcommunity.microsoft.com/blog/azurearcblog/expanding-azure-arc-for-hybrid-and-multicloud-management/4470656)  
-      *Enhanced hybrid and multi-cloud resource management capabilities*
+      *Enhanced hybrid and multi-cloud resource management capabilities, adding GCP.*
     - [AKS Fleet Manager with Arc-enabled Kubernetes Clusters](https://learn.microsoft.com/en-us/azure/kubernetes-fleet/concepts-fleet-arc-integration)  
       *Centralized management for Kubernetes clusters across hybrid environments*
     - [Foundry Local on Windows Server](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/microsoft-foundry-on-windows-server/4471093)  
@@ -99,14 +99,14 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [NAT Gateway v2 - StandardV2 NAT Gateway and StandardV2 Public IP](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-the-public-preview-of-standardv2-nat-gateway-and-standardv2-public-ip/4458292)  
       *Next-generation network address translation with enhanced performance*
     - [ExpressRoute Scalable Gateway](https://learn.microsoft.com/en-us/azure/expressroute/scalable-gateway)  
-      *High-performance private connectivity gateway for enterprise networks*
+      *Scalable ExR gatways without having to swap to a new instance or have downtime*
 
 - **Misc:**
     - **IoT Announcements:**
         - [Bridging the Digital and Physical Worlds with Azure IoT Hub and Azure IoT Operations](https://techcommunity.microsoft.com/blog/iotblog/bridging-the-digital-and-physical-worlds-with-azure-iot-hub-and-azure-iot-operat/4469774)  
           *Comprehensive IoT platform for connecting and managing digital-physical integration*
         - [Azure IoT Hub with ADR Preview - Extending Azure Capabilities and Certificate Management](https://techcommunity.microsoft.com/blog/iotblog/azure-iot-hub-with-adr-preview-extending-azure-capabilities-and-certificate-mana/4465265)  
-          *Advanced Device Reliability features and enhanced certificate management for IoT*
+          *Azure Device Registry, Certificate Management, and Identity for IoT*
 
 
 ## 🔧 Azure Apps
