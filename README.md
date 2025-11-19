@@ -4,9 +4,9 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 19, 2025 at 12:04PM EST
+**Last Updated:** November 19, 2025 at 12:17PM EST
 
-**🎯 What's Inside:** 85+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
+**🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
 ---
 
