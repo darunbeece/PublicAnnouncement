@@ -234,7 +234,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *AI agent integration within workflow automation platform*
     - [Secure AI Agent Knowledge Retrieval - Security Filters in Agent Loop](https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%94%90secure-ai-agent-knowledge-retrieval---introducing-security-filters-in-agent-lo/4467561)  
       *Enhanced security controls for AI agent data access and retrieval*
-    - [Bulletproof Agents with Durable Task Extension](https://techcommunity.microsoft.com/blog/appsonazureblog/bulletproof-agents-with-the-durable-task-extension-for-microsoft-agent-framework/4467122)  
+    - [Durable AI Agent Task Extension](https://techcommunity.microsoft.com/blog/appsonazureblog/bulletproof-agents-with-the-durable-task-extension-for-microsoft-agent-framework/4467122)  
       *Resilient AI agent framework with fault tolerance and recovery capabilities*
 
 - **AI Development Tools:**
