@@ -151,6 +151,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Large Message Support in Event Hubs - General Availability](https://techcommunity.microsoft.com/blog/messagingonazureblog/general-availability-large-message-support-in-azure-event-hubs/4471094)  
       *Support for messages up to 20MB in Azure Event Hubs streaming platform*
 
+- **Cache & In-Memory Services:**
+    - [Azure Managed Redis - Ignite 2025 Feature Announcements](https://techcommunity.microsoft.com/blog/azure-managed-redis/whats-new-in-azure-managed-redis-ignite-2025-feature-announcements/4470201)  
+      *Latest Redis caching service enhancements and new capabilities*
+
 ### Notable Updates
 
 - **Development Platforms:**
@@ -199,7 +203,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Backup Immutability for Long-term Retention in Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/backup-immutability?view=azuresql)  
       *Tamper-proof backup protection for compliance and security*
 
-- **Microsoft Fabric:**
+- **Microsoft Fabric:
     - [Fabric November 2025 Feature Summary](https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary/)  
       *Comprehensive overview of new Fabric capabilities and features announced in November 2025*
     - [Fabric Data Agents at Ignite 2025](https://blog.fabric.microsoft.com/en/blog/whats-new-for-fabric-data-agents-at-ignite-2025-unlocking-deeper-data-reasoning-and-seamless-ai-interoperability)  
