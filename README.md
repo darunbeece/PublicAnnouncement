@@ -249,7 +249,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 
 ### Notable Updates
 
-- **Industry-Specific AI:**
+- **Healthcare AI Models:**
     - [Fine-Tuned Healthcare AI Models - Custom Segmentation for Healthcare Data](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/fine-tuning-healthcare-ai-models-custom-segmentation-for-your-healthcare-data/4471044)  
       *Specialized AI models for medical data analysis and healthcare workflows*
 
