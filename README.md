@@ -1,8 +1,8 @@
 # 🚀 Matt's Ignite 2025 Announcements
 
-> *The book of news is great, but it doesn't include all the great work across the rest of the Azure products.*
+> *The Ingite Book of News is great, but it doesn't include all the great work across the rest of the Azure products.*
 
-A comprehensive collection of announcements and updates from **Microsoft Ignite 2025**, meticulously organized by service category for easy navigation and reference.
+This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
 **🎯 What's Inside:** 100+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -216,7 +216,7 @@ A comprehensive collection of announcements and updates from **Microsoft Ignite 
 🌐 *Format: Hybrid Experience*
 
 ### Summary
-Microsoft Ignite 2025 showcased groundbreaking innovations across Azure infrastructure, data platforms, AI services, and security. Key themes included agentic AI with Microsoft Foundry, next-generation compute capabilities, and comprehensive data platform evolution.
+Microsoft Ignite 2025 showcased innovations across Azure infrastructure, data platforms, AI services, and security. Key themes included agentic AI with Microsoft Foundry, next-generation compute capabilities, and comprehensive data platform evolution.
 
 ---
 
