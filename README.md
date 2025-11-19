@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 19, 2025 at 12:17PM EST
+**Last Updated:** November 19, 2025 at 1:04PM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -202,6 +202,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **Microsoft Fabric:**
     - [Fabric November 2025 Feature Summary](https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary/)  
       *Comprehensive overview of new Fabric capabilities and features announced in November 2025*
+    - [Fabric Data Agents at Ignite 2025](https://blog.fabric.microsoft.com/en/blog/whats-new-for-fabric-data-agents-at-ignite-2025-unlocking-deeper-data-reasoning-and-seamless-ai-interoperability)  
+      *AI-powered data agents for deeper data reasoning and seamless AI interoperability*
     - [Fabric Databases - Unified SaaS Native Experience - GA](https://blog.fabric.microsoft.com/en-us/blog/fabric-databases-a-unified-saas-native-experience-for-modern-data-workloads-generally-available)  
       *Integrated database experience within Microsoft Fabric analytics platform*
     - [SAP Connector in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/29410)  
