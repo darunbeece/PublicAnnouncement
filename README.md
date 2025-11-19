@@ -6,7 +6,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 
 **Last Updated:** November 19, 2025 at 11:36AM EST
 
-**🎯 What's Inside:** 100+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
+**🎯 What's Inside:** 85+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
 ---
 
