@@ -1,4 +1,4 @@
-# 🚀 Matt's Ignite 2025 Announcements
+# 🚀 Matt's List of Ignite 2025 Azure Announcements
 
 > *The Ignite Book of News is great, but it doesn't include all the great work across the rest of the Azure products.*
 
