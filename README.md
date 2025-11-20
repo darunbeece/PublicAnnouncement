@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 20, 2025 at 3:29PM EST
+**Last Updated:** November 20, 2025 at 3:44PM EST
 
 **🎯 What's Inside:** 100+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -233,7 +233,7 @@ This is a personal collection of announcements and updates from **Microsoft Igni
     - [Stream Data from SQL to Azure Event Hubs - Public Preview](https://techcommunity.microsoft.com/blog/azuresqlblog/stream-data-in-near-real-time-from-sql-to-azure-event-hubs---public-preview/4470724)  
       *Near real-time data streaming from SQL databases to Event Hubs for analytics and processing*
 
-- **Microsoft Fabric:
+- **Microsoft Fabric:**
     - [Fabric November 2025 Feature Summary](https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary/)  
       *Comprehensive overview of new Fabric capabilities and features announced in November 2025*
     - [Fabric Data Agents at Ignite 2025](https://blog.fabric.microsoft.com/en/blog/whats-new-for-fabric-data-agents-at-ignite-2025-unlocking-deeper-data-reasoning-and-seamless-ai-interoperability)  
