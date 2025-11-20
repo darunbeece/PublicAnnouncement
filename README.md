@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 20, 2025 at 10:58AM EST
+**Last Updated:** November 20, 2025 at 11:16AM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -140,6 +140,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
 - **Azure Functions:**
     - [Azure Functions Ignite 2025 Update](https://techcommunity.microsoft.com/blog/appsonazureblog/azure-functions-ignite-2025-update/4469815)  
       *Latest serverless computing enhancements and new capabilities*
+    - [Azure Functions Durable Task Scheduler - Dedicated SKU GA & Consumption Preview](https://techcommunity.microsoft.com/blog/appsonazureblog/announcing-azure-functions-durable-task-scheduler-dedicated-sku-ga--consumption-/4465328)  
+      *Advanced task scheduling capabilities with dedicated and consumption-based options*
 
 - **Logic Apps & Integration:**
     - [RabbitMQ Connector - General Availability](https://techcommunity.microsoft.com/blog/integrationsonazureblog/announcing-the-general-availability-of-the-rabbitmq-connector/4470639)  
