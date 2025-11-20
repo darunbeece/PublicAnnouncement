@@ -228,6 +228,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Enhanced managed instance with improved performance and cost optimization*
     - [Backup Immutability for Long-term Retention in Azure SQL](https://techcommunity.microsoft.com/blog/azuresqlblog/azure-sql-database-ltr-backup-immutability-is-now-generally-available/4471457)  
       *Tamper-proof backup protection for compliance and security*
+    - [Stream Data from SQL to Azure Event Hubs - Public Preview](https://techcommunity.microsoft.com/blog/azuresqlblog/stream-data-in-near-real-time-from-sql-to-azure-event-hubs---public-preview/4470724)  
+      *Near real-time data streaming from SQL databases to Event Hubs for analytics and processing*
 
 - **Microsoft Fabric:
     - [Fabric November 2025 Feature Summary](https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary/)  
