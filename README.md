@@ -4,7 +4,7 @@
 
 This is a personal collection of announcements and updates from **Microsoft Ignite 2025**, specific to Azure, organized by service category for navigation and reference.
 
-**Last Updated:** November 20, 2025 at 6:05AM EST
+**Last Updated:** November 20, 2025 at 10:58AM EST
 
 **🎯 What's Inside:** 90+ announcements across Infrastructure, Apps, Data, AI, and Security with direct links to official documentation and blog posts.
 
@@ -268,6 +268,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *AI-powered synthetic dataset creation for model training and testing*
     - [Azure AI Search with Sensitivity Labels and SharePoint ACLs](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/sensitivity-labels-preservation-and-sharepoint-acls-in-azure-ai-search/4471216)  
       *Enhanced data governance with Purview sensitivity labels and SharePoint access controls*
+    - [Advancements in Azure Speech in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/advancing-speech-innovation-with-azure-speech-in-microsoft-foundry/4471461)  
+      *Advanced speech capabilities and innovation within the Foundry AI platform*
 
 - **Model Fine-Tuning & Training:**
     - [Fine Tuning Developer Tier with Spot Instances](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/fine-tuning-overview?view=foundry-classic)  
