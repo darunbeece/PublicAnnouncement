@@ -65,6 +65,10 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Increased scale limits for private connectivity to Azure Monitor services*
     - [Simplified Application Monitoring for AKS with Azure Monitor - Public Preview](https://techcommunity.microsoft.com/blog/azureobservabilityblog/simplify-application-monitoring-for-aks-with-azure-monitor-public-preview/4470136)  
       *Streamlined application observability and monitoring for Azure Kubernetes Service*
+    - [Granular RBAC in Azure Monitor Logs - General Availability](https://techcommunity.microsoft.com/blog/azureobservabilityblog/general-availability-granular-rbac-in-azure-monitor-logs/4471299)  
+      *Fine-grained role-based access control for Azure Monitor log data and queries*
+    - [Azure Migrate Business Case Generator](https://techcommunity.microsoft.com/blog/azuremigrationblog/migrate-or-modernize-your-applications-using-azure-migrate/4468587)  
+      *Automated business case generation for application migration and modernization decisions*
     - [Admin Center Virtualization Mode](https://techcommunity.microsoft.com/blog/windowsservernewsandbestpractices/introducing-windows-admin-center-virtualization-mode-vmode/4471024)  
       *Enhanced Windows Admin Center capabilities for virtualized environments*
     - [Kubernetes Center](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/announcing-kubernetes-center-preview-on-azure-portal/4471110)  
