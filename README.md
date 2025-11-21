@@ -118,6 +118,8 @@ This is a personal collection of announcements and updates from **Microsoft Igni
       *Scalable ExR gatways without having to swap to a new instance or have downtime*
     - [Azure DNS Security Policy with Threat Intelligence Feed - General Availability](https://techcommunity.microsoft.com/blog/azurenetworkingblog/announcing-azure-dns-security-policy-with-threat-intelligence-feed-general-avail/4470183)  
       *DNS-based threat protection using Microsoft threat intelligence for enhanced security*
+    - [Network Watcher Agentless Connection Troubleshooting - Preview](https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview#agentless-experience-preview)  
+      *Simplified network connectivity diagnostics without requiring VM agents*
 
 - **Misc:**
     - **IoT Announcements:**
