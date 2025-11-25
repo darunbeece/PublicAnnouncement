@@ -1,4 +1,4 @@
-# 🚀 Matt's List of Ignite 2025 Azure Announcements
+# 🚀 Aruns List of Ignite 2025 Azure Announcements
 
 > *The Ignite Book of News is great, but it doesn't include all the great work across the rest of the Azure products.*
 
@@ -349,7 +349,7 @@ Microsoft Ignite 2025 showcased innovations across Azure infrastructure, data pl
 
 ## 📝 Contributing
 
-This list is maintained by Matt Hansen. Feel free to suggest additions or corrections!
+This list is maintained by Arun Dhanaraj. Feel free to suggest additions or corrections!
 
 ---
 
